@@ -1,0 +1,22 @@
+/* src/styles.css */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+h2, h3, h5 {
+    font-weight: 500;
+}
+
+pre {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+}

@@ -1,0 +1,3 @@
+fastapi
+uvicorn
+pymongo  # If you're using MongoDB
